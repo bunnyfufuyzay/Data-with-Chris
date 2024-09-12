@@ -1,5 +1,7 @@
 # Netflix Movies and TV Shows Data Analysis using PostgreSQL
 SQL and Data Analysis on a dataset from Kaggle
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
